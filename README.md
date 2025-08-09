@@ -10,4 +10,3 @@ i'm backend developer mainly working with java spring boot and asp.net
    <img src="https://nirzak-streak-stats.vercel.app/?user=dzungvd98&theme=default_repocard&hide_border=false"/><br/>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzungvd98&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
----
