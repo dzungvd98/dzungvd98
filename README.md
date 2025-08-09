@@ -1,5 +1,7 @@
 # 💫 About Me:
-i'm backend developer mainly working with java spring boot and asp.net
+👨‍💻 Backend Developer with 1 year of experience, specializing in **Java Spring Boot** and **ASP.NET**.  
+🚀 Passionate about building clean, scalable, and high-performance server-side applications.  
+📚 Always learning and exploring new technologies to improve development efficiency.  
 
 
 # 💻 Tech Stack:
@@ -10,3 +12,4 @@ i'm backend developer mainly working with java spring boot and asp.net
    <img src="https://nirzak-streak-stats.vercel.app/?user=dzungvd98&theme=default_repocard&hide_border=false"/><br/>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzungvd98&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
+![Coding gif](https://i.redd.it/12qyupc24fkd1.gif)
